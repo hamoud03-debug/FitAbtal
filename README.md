@@ -23,6 +23,10 @@
 - Full Arabic (RTL) and English support, light and dark themes
 - **PRO** (optional): advanced features and calculators
 
+## Built with
+
+I built FitAbtal with [Expo](https://expo.dev) (React Native).
+
 ## Promo videos
 
 - [English launch video](media/fitabtal-appstore-launch-en.mp4)
