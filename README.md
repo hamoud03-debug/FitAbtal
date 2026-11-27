@@ -47,9 +47,17 @@
 
 **[حمّل التطبيق من App Store](https://apps.apple.com/sa/app/%D9%81%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D9%85%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/id6830518286?l=ar)**
 
+### الكلمات المفتاحية
+
+تمارين · جيم · نادي رياضي · لياقة بدنية · كمال أجسام · رفع أثقال · تضخيم · بناء العضلات · تمارين القوة · تسجيل التمارين · مجموعات وتكرارات · مؤقت الراحة · جدول تمارين · برنامج تمارين · روتين تمارين · أرقام قياسية · حاسبة الوزن الأقصى · تقدّم · قياسات الجسم · اختبار اللياقة · صدر · ظهر · أكتاف · ذراع · باي · تراي · أرجل · أرداف · بطن · دمبل · بار · أجهزة · تمارين بوزن الجسم · تمارين منزلية · ساعة أبل · تطبيق تمارين مجاني
+
 </div>
 
 ---
+
+## Keywords
+
+workout tracker · gym log · fitness app · exercise library · strength training · weightlifting · bodybuilding · powerlifting · muscle building · hypertrophy · sets and reps · rest timer · workout planner · training program · routines · personal records · 1RM calculator · progressive overload · progress tracking · body measurements · fitness test · chest · back · shoulders · arms · biceps · triceps · legs · glutes · abs · core · dumbbell · barbell · machines · bodyweight · home workout · Apple Watch workout · free workout app
 
 ## Privacy
 
