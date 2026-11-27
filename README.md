@@ -3,6 +3,7 @@
 <h1 align="center">FitAbtal</h1>
 <p align="center"><b>Your gym workouts, tracked and planned — in Arabic and English.</b></p>
 <p align="center">iPhone · Apple Watch · Light & Dark themes</p>
+<p align="center"><a href="https://apps.apple.com/sa/app/%D9%81%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D9%85%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/id6830518286?l=ar"><b>⬇️ Download on the App Store · حمّل التطبيق من App Store</b></a></p>
 
 ---
 
@@ -40,6 +41,8 @@
 - رسوم بيانية للتقدّم والأرقام القياسية
 - تطبيق Apple Watch
 - دعم كامل للعربية والإنجليزية، ووضع فاتح وداكن
+
+**[حمّل التطبيق من App Store](https://apps.apple.com/sa/app/%D9%81%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D9%85%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/id6830518286?l=ar)**
 
 </div>
 
